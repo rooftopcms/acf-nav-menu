@@ -1,0 +1,20 @@
+{
+    "name": "rooftopcms/acf-nav-menu",
+    "description": "Authenticates requests to the API",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Error Agency",
+            "email": "hello@error.agency"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://wpackagist.org"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+    }
+}
